@@ -10,6 +10,9 @@
   "keywords": [
     "twitter"
   ],
+  "dependencies": {
+    "twitter": "1.7.0"
+  },
   "author": "sid",
   "license": "ISC",
   "engines": {
