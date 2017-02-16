@@ -1,0 +1,14 @@
+{
+  "name": "twitter-app",
+  "version": "1.0.0",
+  "description": "This is my first twitter app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "sid",
+  "license": "ISC"
+}
